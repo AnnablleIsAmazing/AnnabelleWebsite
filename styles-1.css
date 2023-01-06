@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana;
+}
+
+form{
+    font-family: 'Fredoka One', cursive;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+}
+
+h1{
+    font-family: 'Fredoka One', cursive;
+    font-size: 70px;
+}
+
+h2{
+    font-family: 'Fredoka One', cursive;
+}
+
+h3{
+    font-family: 'Fredoka One', cursive;
+}
